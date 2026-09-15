@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kariann-journal.geagu35.chatgpt.site/sitemap.xml
